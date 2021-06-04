@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: "Tereza Iofciu"
 ---
 
-# Hello World
+# Everyday life ramblings
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+I am an artist, painter of dinosaurs, petter of Brutus the frenchie, used to Capoeira now more like yoga, a "learn by doing"-er .. so I usually read the manual late. And I like learning things in public.

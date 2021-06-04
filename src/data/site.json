@@ -1,13 +1,13 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "name": "Tereza Iofciu",
+  "description": "Collection of thoughts and lessons.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
+    "name": "Tereza Iofciu",
     "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "twitterHandle": "terezaif"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
+  "defaultSocialImage": "/images/ti_in_action.png",
   "headerLinks": [
     {
       "text": "Blog",
@@ -23,17 +23,22 @@
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
+      "url": "https://instagram.com/tiyepyep",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/terezaif",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/terezaif",
+      "external": true
+    },
+    {
+      "text": "Etsy",
+      "url": "https://www.etsy.com/shop/TiYepYep#",
       "external": true
     }
   ],
